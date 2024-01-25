@@ -1,4 +1,4 @@
-# DL-ML-Learn
+# PyTorch-DL-Learn
 This repo contains the codes and explanations for DL and ML
 
 
